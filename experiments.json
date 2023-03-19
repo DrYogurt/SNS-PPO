@@ -1,0 +1,13 @@
+{
+  "hidden_sizes": {
+    "min": 16,
+    "max": 128,
+    "num_between": 3
+  },
+  "total_timesteps": {
+    "min": 1000,
+    "max": 10000,
+    "num_between": 4
+  }
+}
+
